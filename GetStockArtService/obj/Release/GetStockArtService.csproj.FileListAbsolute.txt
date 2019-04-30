@@ -1,0 +1,17 @@
+C:\trabajo\WSStocksArt\GetStockArtService\bin\GetStockArtService.dll
+C:\trabajo\WSStocksArt\GetStockArtService\bin\GetStockArtService.pdb
+C:\trabajo\WSStocksArt\GetStockArtService\bin\DBConnection.dll
+C:\trabajo\WSStocksArt\GetStockArtService\bin\DBConnection.pdb
+C:\trabajo\WSStocksArt\GetStockArtService\obj\Release\GetStockArtService.csprojResolveAssemblyReference.cache
+C:\trabajo\WSStocksArt\GetStockArtService\obj\Release\GetStockArtService.dll
+C:\trabajo\WSStocksArt\GetStockArtService\obj\Release\GetStockArtService.pdb
+C:\Users\Norman\Downloads\WSStocksArt\GetStockArtService\bin\GetStockArtService.dll.config
+C:\Users\Norman\Downloads\WSStocksArt\GetStockArtService\bin\GetStockArtService.dll
+C:\Users\Norman\Downloads\WSStocksArt\GetStockArtService\bin\GetStockArtService.pdb
+C:\Users\Norman\Downloads\WSStocksArt\GetStockArtService\bin\DBConnection.dll
+C:\Users\Norman\Downloads\WSStocksArt\GetStockArtService\bin\DBConnection.pdb
+C:\Users\Norman\Downloads\WSStocksArt\GetStockArtService\obj\Release\GetStockArtService.csprojAssemblyReference.cache
+C:\Users\Norman\Downloads\WSStocksArt\GetStockArtService\obj\Release\GetStockArtService.csproj.CoreCompileInputs.cache
+C:\Users\Norman\Downloads\WSStocksArt\GetStockArtService\obj\Release\GetStockArtService.csproj.CopyComplete
+C:\Users\Norman\Downloads\WSStocksArt\GetStockArtService\obj\Release\GetStockArtService.dll
+C:\Users\Norman\Downloads\WSStocksArt\GetStockArtService\obj\Release\GetStockArtService.pdb

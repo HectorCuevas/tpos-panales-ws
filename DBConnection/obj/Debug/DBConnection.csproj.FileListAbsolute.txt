@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\WSStocksArt\DBConnection\bin\Debug\DBConnection.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\WSStocksArt\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\WSStocksArt\DBConnection\obj\Debug\DBConnection.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\WSStocksArt\DBConnection\obj\Debug\DBConnection.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\WSStocksArt\DBConnection\obj\Debug\DBConnection.pdb
